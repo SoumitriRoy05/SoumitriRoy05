@@ -1,31 +1,228 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Soumitri Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="200" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
+# Soumitri Roy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumitriroy05&label=Profile%20views&color=0e75b6&style=flat" alt="soumitriroy05" /> </p>
+### AI & Full Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumitriroy05" alt="soumitriroy05" /></a> </p>
+Building intelligent software that combines Artificial Intelligence with scalable Full Stack applications.
 
-<p align="left"> <a href="https://twitter.com/soumitrir05" target="blank"><img src="https://img.shields.io/twitter/follow/soumitrir05?logo=twitter&style=for-the-badge" alt="soumitrir05" /></a> </p>
-
-- 🌱 I’m currently learning **Html,CSS,JS,Python**
-
-- 📫 How to reach me **roysoumitri06@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/soumitrir05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumitrir05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumitri-roy-7ab9842a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumitri-roy-7ab9842a7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/soumitriroy05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soumitriroy05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soumitri_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumitri_roy" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+SkillSphere+Learning+Nexus;Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumitriroy05&show_icons=true&locale=en&layout=compact" alt="soumitriroy05" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumitriroy05&show_icons=true&locale=en" alt="soumitriroy05" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumitriroy05&" alt="soumitriroy05" /></p>
+# About Me
+
+```java
+public class SoumitriRoy {
+
+    String role = "AI & Full Stack Developer";
+
+    String education =
+            "B.Tech CSE (AI & ML)";
+
+    String university =
+            "C.V. Raman Global University";
+
+    String currentProject =
+            "SkillSphere Learning Nexus";
+
+    String goal =
+            "Building scalable AI-powered software that creates real-world impact.";
+
+}
+```
+
+---
+
+# Current Focus
+
+- Building **SkillSphere Learning Nexus**
+- Full Stack Development with React & Spring Boot
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Backend System Design
+
+---
+
+# Featured Projects
+
+## 🚀 SkillSphere Learning Nexus
+
+An AI-powered learning and workforce platform connecting students, educators, recruiters, and industry.
+
+### Highlights
+
+- AI Career Roadmap
+- Coding Practice Platform
+- Resume Analyzer
+- Mock Interview System
+- Learning Dashboard
+- Workforce Portal
+- Recruiter Dashboard
+- JWT Authentication
+
+**Tech Stack**
+
+React • Spring Boot • MySQL • JWT • REST API
+
+---
+
+## 🧠 Brain Stroke Detection
+
+Deep Learning based Brain CT Classification using CNN.
+
+- TensorFlow
+- OpenCV
+- Medical Image Processing
+- CNN
+
+---
+
+## 🏥 Panchakarma Management System
+
+Healthcare platform developed for Smart India Hackathon.
+
+- Patient Scheduling
+- Therapy Management
+- Doctor Dashboard
+- Reports
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# Coding Profiles
+
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- CodeChef
+
+---
+
+# Currently Learning
+
+- Spring Boot Security
+- Docker
+- AWS Cloud
+- System Design
+- Microservices
+
+---
+
+# Developer Philosophy
+
+> Great software isn't just about writing code.
+
+> It's about solving meaningful problems, creating delightful user experiences, and continuously improving every day.
+
+---
+
+# Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/soumitri-roy-7ab9842a7/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:soumitriroy05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
