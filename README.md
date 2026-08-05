@@ -144,17 +144,9 @@ Healthcare platform developed for Smart India Hackathon.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SoumitriRoy05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitriRoy05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -162,7 +154,7 @@ Healthcare platform developed for Smart India Hackathon.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SoumitriRoy05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -170,7 +162,15 @@ Healthcare platform developed for Smart India Hackathon.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumitriRoy05&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SoumitriRoy05&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
