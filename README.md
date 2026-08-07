@@ -11,10 +11,10 @@ Building intelligent software that combines Artificial Intelligence with scalabl
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/soumitri-roy-7ab9842a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+<a href="mailto:soumitriroy05@gmsil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Soumitri_Roy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 </div>
@@ -142,13 +142,13 @@ Healthcare platform developed for Smart India Hackathon.
 
 # GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SoumitriRoy05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoumitriRoy05&show_icons=true&theme=tokyonight" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitriRoy05&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -168,11 +168,11 @@ Healthcare platform developed for Smart India Hackathon.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=SoumitriRoy05&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</p>
+</p> -->
 
 ---
 
