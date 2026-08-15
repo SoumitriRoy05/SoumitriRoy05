@@ -31,9 +31,6 @@ public class SoumitriRoy {
     String education =
             "B.Tech CSE (AI & ML)";
 
-    String university =
-            "C.V. Raman Global University";
-
     String currentProject =
             "SkillSphere Learning Nexus";
 
